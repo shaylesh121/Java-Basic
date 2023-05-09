@@ -28,7 +28,7 @@ class You extends Father {
         if (cash < 0) {
             total = asset + cash;
         } else {
-            total = cash;
+            total = asset + cash;
         }
         
         System.out.print("Total Properties = " + total);
