@@ -5,7 +5,7 @@ class fibonacci{
 		int num1=1,num2=2;
 		int num3,i,count=0;
 		
-		Scanner scn= new	Scanner(System.in);
+		Scanner scn= new Scanner(System.in);
 
 		System.out.print("Enter the index element of series:");
 		num1=scn.nextInt();
