@@ -1,3 +1,9 @@
+/*QUESTRION
+Grandfather: cash= 10 lakh , asset=20 lakh;
+father:      cash= 5  lakh , asset=22 lakh;
+you spend:   cash= 22 lakh ;
+
+*/
 package family;
 
 class Grandfather {
