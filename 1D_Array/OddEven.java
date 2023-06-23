@@ -43,7 +43,7 @@ public class OddEven
         }
         System.out.println("");
         System.out.print("Even:");
-        if(k != 1)
+        if(k == 0)
         {
           	System.out.println("No number"); 
         }
